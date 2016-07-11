@@ -1,0 +1,9 @@
+node_modules
+bower_components
+Thumbs.db
+tmp
+src
+.jshintrc
+/*.js
+/*.json
+
